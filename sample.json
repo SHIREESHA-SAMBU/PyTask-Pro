@@ -1,0 +1,16 @@
+[
+  {
+    "title": "  The   Python Journey  ",
+    "price": "$25",
+    "rating": " Four ",
+    "availability": " In stock ",
+    "source_url": "sample"
+  },
+  {
+    "title": "Web\\nScraping Basics",
+    "price": "$18",
+    "rating": " Three ",
+    "availability": " In stock ",
+    "source_url": "sample"
+  }
+]
